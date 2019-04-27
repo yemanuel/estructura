@@ -1,6 +1,0 @@
-<?php
-
-if (true)
-{
-	echo"mensaje por ser True"
-}
