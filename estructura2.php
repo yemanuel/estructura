@@ -18,13 +18,14 @@ $ sueldo; //indicar si el sueldo es minimo o no
 
 if (true)
  {
-	echo"mensaje por ser true" ;
+	echo"tiene ganamas mas del sueldo minimo" ;
+
 
 } else
 {
-	echo"mensaje por ser False;
+	echo" tiene  descuento minimo;
 }
 echo "<br / >";
-echo false ?"mensaje por ser true";"mensaje por ser false";
+echo false ?"ganamas el sueldo minimo";"sueldo minimo";
 
 ?>
